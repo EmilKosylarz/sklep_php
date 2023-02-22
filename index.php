@@ -59,9 +59,8 @@
 
     ];
 
-    //echo '<pre>'; print_r($products); echo '</pre>';
-    $data = unserialize($products[0]);
+    echo '<pre>'; print_r($products); echo '</pre>';
     //print_r($products[0]);
-    print_r($data);
+  
 
 ?>
